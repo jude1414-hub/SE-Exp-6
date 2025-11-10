@@ -3,8 +3,26 @@
 # AIM:
 
 # SRS (Procedure):
+Create the following diagrams using StarUML:
 
+i) Usecase Diagram
+
+ii)Class Diagram
+
+iii)package Diagram
+
+iv)Communication Diagram
+
+v)Sequence Diagram
+
+vi)Activity Diagram
 # DIAGRAMS:
-(upload all 6 diagrams)
+<img width="1143" height="1021" alt="Screenshot 2025-11-10 104119" src="https://github.com/user-attachments/assets/acee192c-7ee8-46cf-8313-ced5b3146624" />
+<img width="1081" height="979" alt="Screenshot 2025-11-10 104732" src="https://github.com/user-attachments/assets/4abc6aef-e791-42a2-9e59-2e3b378c7e1e" />
+<img width="1178" height="772" alt="Screenshot 2025-11-10 105019" src="https://github.com/user-attachments/assets/6e59bf8b-0de8-440f-8c97-4face07ce81b" />
+<img width="1404" height="937" alt="Screenshot 2025-11-10 110604" src="https://github.com/user-attachments/assets/83cf333e-4887-42ea-a87e-0a048308bd56" />
+<img width="1315" height="806" alt="Screenshot 2025-11-10 111222" src="https://github.com/user-attachments/assets/62dd861e-0c6e-4e5c-b2c6-827b5c45a456" />
+<img width="866" height="869" alt="Screenshot 2025-11-10 112100" src="https://github.com/user-attachments/assets/7933efe6-3273-4228-bf3b-d3a588ddd78d" />
 
 # RESULT:
+Thus, the UML diagrams for the Student Online Exam Registration System has been designed successfully.
