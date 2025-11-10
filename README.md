@@ -1,7 +1,7 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
 # AIM:
-
+To draw the UML diagram for Student Online Exam Registration System.
 # SRS (Procedure):
 Create the following diagrams using StarUML:
 
